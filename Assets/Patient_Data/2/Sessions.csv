@@ -1,0 +1,4 @@
+﻿SessionNumber,DateTime,Device,Assessment,StartTime,StopTime,GameName,TrialDataFileLocation,DeviceSetupLocation,AssistMode,AssistModeParameters,GameParameter
+4,08-07-2024 13:57:07,R2,0,08-07-2024 13:57:07,08-07-2024 13:57:07,SPACESHOOTERR,,YourDeviceSetupLocation,Null,YourAssistModeParameters,YourGameParameter
+5,08-07-2024 19:53:14,R2,0,08-07-2024 19:53:16,08-07-2024 19:53:44,TUK-TUK,..\Assets\Patient_Data\2\08-07-2024\flappy_Data\FlappyGameData_08072024_195314.csv,YourDeviceSetupLocation,Null,YourAssistModeParameters,YourGameParameter
+5,08-07-2024 19:53:53,R2,0,08-07-2024 19:53:53,08-07-2024 19:54:03,SPACESHOOTERR,,YourDeviceSetupLocation,Null,YourAssistModeParameters,YourGameParameter
